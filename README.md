@@ -1,0 +1,1 @@
+Traffic Data Processor (TDP), the Python-based toolkit used alongside Easy Data Collector (EZDatCol) to process big traffic data and export relevant spreadsheets, graphs, and interactive maps.
